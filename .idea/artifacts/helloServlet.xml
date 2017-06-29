@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="helloServlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/helloServlet</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HelloServlet" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="libs" />
+        </element>
+        <element id="file-copy" path="$PROJECT_DIR$/HelloServlet/webapp/WEB-INF/web.xml" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/HelloServlet/webapp/index.html" />
+    </root>
+  </artifact>
+</component>
