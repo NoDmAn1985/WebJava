@@ -1,0 +1,74 @@
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.78
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          May 10 2017 15:02:19 UTC
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.78.0
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jre1.8.0_131
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_131-b11
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         D:\1\apache-tomcat-7.0.78
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         D:\1\apache-tomcat-7.0.78
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=D:\1\apache-tomcat-7.0.78\conf\logging.properties
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=D:\1\apache-tomcat-7.0.78\endorsed
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=D:\1\apache-tomcat-7.0.78
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=D:\1\apache-tomcat-7.0.78
+θών 27, 2017 8:04:14 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=D:\1\apache-tomcat-7.0.78\temp
+θών 27, 2017 8:04:14 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jre1.8.0_131\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Dmitriy\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;"C:\Program Files\Java\jre1.8.0_131";.
+θών 27, 2017 8:04:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+θών 27, 2017 8:04:15 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+θών 27, 2017 8:04:15 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 963 ms
+θών 27, 2017 8:04:15 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+θών 27, 2017 8:04:15 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.78
+θών 27, 2017 8:04:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\1\apache-tomcat-7.0.78\webapps\docs
+θών 27, 2017 8:04:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\1\apache-tomcat-7.0.78\webapps\docs has finished in 474 ms
+θών 27, 2017 8:04:15 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\1\apache-tomcat-7.0.78\webapps\examples
+θών 27, 2017 8:04:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\1\apache-tomcat-7.0.78\webapps\examples has finished in 356 ms
+θών 27, 2017 8:04:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\1\apache-tomcat-7.0.78\webapps\host-manager
+θών 27, 2017 8:04:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\1\apache-tomcat-7.0.78\webapps\host-manager has finished in 66 ms
+θών 27, 2017 8:04:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\1\apache-tomcat-7.0.78\webapps\manager
+θών 27, 2017 8:04:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\1\apache-tomcat-7.0.78\webapps\manager has finished in 64 ms
+θών 27, 2017 8:04:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory D:\1\apache-tomcat-7.0.78\webapps\ROOT
+θών 27, 2017 8:04:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory D:\1\apache-tomcat-7.0.78\webapps\ROOT has finished in 53 ms
+θών 27, 2017 8:04:16 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+θών 27, 2017 8:04:16 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+θών 27, 2017 8:04:16 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1128 ms
